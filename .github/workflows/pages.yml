@@ -1,4 +1,4 @@
-name: Deploy Zhiyi to GitHub Pages
+name: Deploy mingde to GitHub Pages
 on:
   push:
     branches: [main]
